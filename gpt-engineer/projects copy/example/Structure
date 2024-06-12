@@ -1,0 +1,10 @@
+duckdb_crud/
+requirements.txt
+models/
+__init__.py
+duckdb_model.py
+crud/
+__init__.py
+crud.py
+main.py
+sample.csv

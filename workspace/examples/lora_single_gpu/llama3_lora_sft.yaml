@@ -1,0 +1,11 @@
+model:
+  params:
+    hidden_size: 128
+    intermediate_size: 512
+    num_attention_heads: 8
+    num_hidden_layers: 6
+  type: LLaMA
+training:
+  batch_size: 4
+  epochs: 3
+  lr: 0.0001
